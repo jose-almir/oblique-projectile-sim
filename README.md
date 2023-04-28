@@ -1,11 +1,15 @@
 # ObliqueProjectileMotionSimulation
 A physics simulation of Oblique Projectile Motion for learning purposes
 
-![](https://repository-images.githubusercontent.com/296985112/f77af100-fadc-11ea-8a95-6a9b72aadb26)
+# Preview
+![Animação8](https://user-images.githubusercontent.com/50648379/235158732-ddd8f7a8-896a-46a3-a0e6-b253de350dd3.gif)
+
 
 ## Execute
 
-Download or clone this repository, then execute make && make run. Enjoy!
+1. Install `g++`, `make` and `freeglut3-dev`;
+
+2. Run `make && make run`.
 
 ## Note
-This simulation is only available for UNIX based systems. 
+This simulation is only available for UNIX based systems or WSL environments with Debian distribution. 
